@@ -1,0 +1,15 @@
+C:\Users\Noormees\source\repos\Week9_Lists\Week9_Lists\bin\Debug\net6.0\Week9_Lists.exe
+C:\Users\Noormees\source\repos\Week9_Lists\Week9_Lists\bin\Debug\net6.0\Week9_Lists.deps.json
+C:\Users\Noormees\source\repos\Week9_Lists\Week9_Lists\bin\Debug\net6.0\Week9_Lists.runtimeconfig.json
+C:\Users\Noormees\source\repos\Week9_Lists\Week9_Lists\bin\Debug\net6.0\Week9_Lists.dll
+C:\Users\Noormees\source\repos\Week9_Lists\Week9_Lists\bin\Debug\net6.0\Week9_Lists.pdb
+C:\Users\Noormees\source\repos\Week9_Lists\Week9_Lists\obj\Debug\net6.0\Week9_Lists.csproj.AssemblyReference.cache
+C:\Users\Noormees\source\repos\Week9_Lists\Week9_Lists\obj\Debug\net6.0\Week9_Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noormees\source\repos\Week9_Lists\Week9_Lists\obj\Debug\net6.0\Week9_Lists.AssemblyInfoInputs.cache
+C:\Users\Noormees\source\repos\Week9_Lists\Week9_Lists\obj\Debug\net6.0\Week9_Lists.AssemblyInfo.cs
+C:\Users\Noormees\source\repos\Week9_Lists\Week9_Lists\obj\Debug\net6.0\Week9_Lists.csproj.CoreCompileInputs.cache
+C:\Users\Noormees\source\repos\Week9_Lists\Week9_Lists\obj\Debug\net6.0\Week9_Lists.dll
+C:\Users\Noormees\source\repos\Week9_Lists\Week9_Lists\obj\Debug\net6.0\refint\Week9_Lists.dll
+C:\Users\Noormees\source\repos\Week9_Lists\Week9_Lists\obj\Debug\net6.0\Week9_Lists.pdb
+C:\Users\Noormees\source\repos\Week9_Lists\Week9_Lists\obj\Debug\net6.0\Week9_Lists.genruntimeconfig.cache
+C:\Users\Noormees\source\repos\Week9_Lists\Week9_Lists\obj\Debug\net6.0\ref\Week9_Lists.dll
